@@ -24,9 +24,23 @@
 | 206    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | E              | LinkedList                  |
 | 2      | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | M              | LinkedList                  |
 | 86     | [Partition List](https://leetcode.com/problems/partition-list) | M              | LinkedList                  |
-| 138    | [ Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | M              | LinkedList \| Heap          |
+| 138    | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | M              | LinkedList \| Heap          |
 | 142    | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | M              | LinkedList \| TwoPointer    |
 | 148    | [Sort List](https://leetcode.com/problems/sort-list)         | M              | Sort \| LinkedList          |
 | 426    | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) | M              | LinkedList \| Tree \| Stack |
 | 25     | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | H              | LinkedList                  |
 
+### WEEK 3 Tree
+
+| **Id** | **Title**                                                    | **Difficulty** | **Tag**           |
+| ------ | ------------------------------------------------------------ | -------------- | ----------------- |
+| 107    | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | E              | Tree \| Recursion |
+| 112    | [Path Sum](https://leetcode.com/problems/path-sum)           | E              | Tree              |
+| 226    | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | E              | Tree \| BFS       |
+| 94     | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | M              | Tree \| Stack     |
+| 95     | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | M              | DP \| BST         |
+| 144    | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | M              | Tree \| Stack     |
+| 236    | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | M              | Tree              |
+| 124    | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | H              | Tree              |
+| 145    | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | H              | Tree \| Stack     |
+| 297    | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | H              | Tree \| Recursion |
