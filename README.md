@@ -44,3 +44,33 @@
 | 124    | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | H              | Tree              |
 | 145    | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | H              | Tree \| Stack     |
 | 297    | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | H              | Tree \| Recursion |
+
+### WEEK 4 BackTrack
+
+| **Id** | **Title**                                                    | **Difficulty** | **Tag**               |
+| ------ | ------------------------------------------------------------ | -------------- | --------------------- |
+| 17     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | M              | DFS                   |
+| 22     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | M              | DFS                   |
+| 46     | [Permutations](https://leetcode.com/problems/permutations)   | M              | DFS                   |
+| 51     | [N-Queens](https://leetcode.com/problems/n-queens)           | H              | DFS                   |
+| 78     | [Subsets](https://leetcode.com/problems/subsets)             | M              | DFS                   |
+| 93     | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | M              | DFS                   |
+| 401    | [Binary Watch](https://leetcode.com/problems/binary-watch/)  | E              | DFS                   |
+| 687    | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | E              | Tree \| Recursion     |
+| 698    | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | M              | DFS \| DP \| Bit Mask |
+| 726    | [Number of Atoms](https://leetcode.com/problems/number-of-atoms) | H              | Recursion             |
+
+### WEEK 5 DFS & BFS
+
+| **Id** | **Title**                                                    | **Difficulty** | **Tag**                           |
+| ------ | ------------------------------------------------------------ | -------------- | --------------------------------- |
+| 101    | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | E              | Tree \| Recursion \| Stack        |
+| 104    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | E              | Tree \| Recursion                 |
+| 108    | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | E              | Tree \| Recursion \| Stack \| BFS |
+| 105    | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | M              |                                   |
+| 109    | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | M              |                                   |
+| 114    | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | M              |                                   |
+| 116    | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | M              |                                   |
+| 199    | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | M              |                                   |
+| 394    | [Decode String](https://leetcode.com/problems/decode-string) | M              |                                   |
+| 488    | [Zuma Game](https://leetcode.com/problems/zuma-game)         | H              |                                   |
