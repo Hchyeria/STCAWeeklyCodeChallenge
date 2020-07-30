@@ -67,10 +67,10 @@
 | 101    | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | E              | Tree \| Recursion \| Stack        |
 | 104    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | E              | Tree \| Recursion                 |
 | 108    | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | E              | Tree \| Recursion \| Stack \| BFS |
-| 105    | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | M              |                                   |
-| 109    | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | M              |                                   |
-| 114    | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | M              |                                   |
-| 116    | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | M              |                                   |
+| 105    | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | M              | Tree \| Recursion                 |
+| 109    | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | M              | Tree \| Recursion \| LinkedList   |
+| 114    | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | M              | Tree \| Recursion \| Stack        |
+| 116    | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | M              | Tree \| Recursion \| BFS          |
 | 199    | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | M              |                                   |
 | 394    | [Decode String](https://leetcode.com/problems/decode-string) | M              |                                   |
 | 488    | [Zuma Game](https://leetcode.com/problems/zuma-game)         | H              |                                   |
