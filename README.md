@@ -71,6 +71,7 @@
 | 109    | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | M              | Tree \| Recursion \| LinkedList   |
 | 114    | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | M              | Tree \| Recursion \| Stack        |
 | 116    | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | M              | Tree \| Recursion \| BFS          |
-| 199    | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | M              |                                   |
-| 394    | [Decode String](https://leetcode.com/problems/decode-string) | M              |                                   |
-| 488    | [Zuma Game](https://leetcode.com/problems/zuma-game)         | H              |                                   |
+| 199    | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | M              | Tree \| Recursion                 |
+| 394    | [Decode String](https://leetcode.com/problems/decode-string) | M              | Stack \| DFS                      |
+| 488    | [Zuma Game](https://leetcode.com/problems/zuma-game)         | H              | DFS                               |
+
