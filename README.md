@@ -77,15 +77,16 @@
 
 ### WEEK 6 Dynamic Programming
 
-| **Id** | **Title**                                                    | **Difficulty** | **Tag** |
-| ------ | ------------------------------------------------------------ | -------------- | ------- |
-| 70     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | E              | DP      |
-| 198    | [House Robber](https://leetcode.com/problems/house-robber)   | E              | DP      |
-| 303    | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | E              | DP      |
-| 5      | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | M              |         |
-| 64     | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | M              |         |
-| 139    | [Word Break](https://leetcode.com/problems/word-break)       | M              |         |
-| 300    | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | M              |         |
-| 309    | [ Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | M              |         |
-| 322    | [ Coin Change](https://leetcode.com/problems/coin-change)    | M              |         |
-| 72     | [ Edit Distance](https://leetcode.com/problems/edit-distance) | H              |         |
+| **Id** | **Title**                                                    | **Difficulty** | **Tag**             |
+| ------ | ------------------------------------------------------------ | -------------- | ------------------- |
+| 70     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | E              | DP                  |
+| 198    | [House Robber](https://leetcode.com/problems/house-robber)   | E              | DP                  |
+| 303    | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | E              | DP                  |
+| 5      | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | M              | DP                  |
+| 64     | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | M              | DP                  |
+| 139    | [Word Break](https://leetcode.com/problems/word-break)       | M              | DP \| HashSet       |
+| 300    | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | M              | DP \| Binary Search |
+| 309    | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | M              | DP                  |
+| 322    | [Coin Change](https://leetcode.com/problems/coin-change)     | M              |                     |
+| 72     | [Edit Distance](https://leetcode.com/problems/edit-distance) | H              |                     |
+
