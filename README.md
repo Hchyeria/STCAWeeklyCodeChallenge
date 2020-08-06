@@ -92,15 +92,16 @@
 
 ### WEEK 7 Greedy
 
-| **Id** | **Title**                                                    | **Difficulty** | **Tag**      |
-| ------ | ------------------------------------------------------------ | -------------- | ------------ |
-| 122    | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | E              | Greedy       |
-| 455    | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | E              | Greedy       |
-| 55     | [Jump Game](https://leetcode.com/problems/jump-game)         | M              | DP \| Greedy |
-| 134    | [Gas Station](https://leetcode.com/problems/gas-station)     | M              | Greedy       |
-| 376    | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | M              | DP \| Greedy |
-| 406    | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | M              |              |
-| 621    | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | M              |              |
-| 714    | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | M              |              |
-| 45     | [Jump Game II](https://leetcode.com/problems/jump-game-ii)   | H              |              |
-| 135    | [Candy](https://leetcode.com/problems/candy)                 | H              |              |
+| **Id** | **Title**                                                    | **Difficulty** | **Tag**                 |
+| ------ | ------------------------------------------------------------ | -------------- | ----------------------- |
+| 122    | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | E              | Greedy                  |
+| 455    | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | E              | Greedy                  |
+| 55     | [Jump Game](https://leetcode.com/problems/jump-game)         | M              | DP \| Greedy            |
+| 134    | [Gas Station](https://leetcode.com/problems/gas-station)     | M              | Greedy                  |
+| 376    | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | M              | DP \| Greedy            |
+| 406    | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | M              | Greedy                  |
+| 621    | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | M              | Greedy \| PriorityQueue |
+| 714    | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | M              | DP \| Greedy            |
+| 45     | [Jump Game II](https://leetcode.com/problems/jump-game-ii)   | H              |                         |
+| 135    | [Candy](https://leetcode.com/problems/candy)                 | H              |                         |
+
