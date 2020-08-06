@@ -102,6 +102,6 @@
 | 406    | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | M              | Greedy                  |
 | 621    | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | M              | Greedy \| PriorityQueue |
 | 714    | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | M              | DP \| Greedy            |
-| 45     | [Jump Game II](https://leetcode.com/problems/jump-game-ii)   | H              |                         |
-| 135    | [Candy](https://leetcode.com/problems/candy)                 | H              |                         |
+| 45     | [Jump Game II](https://leetcode.com/problems/jump-game-ii)   | H              | Greedy                  |
+| 135    | [Candy](https://leetcode.com/problems/candy)                 | H              | Greedy                  |
 
